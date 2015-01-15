@@ -1,12 +1,12 @@
 Title: Bus MRC Deux-Montagnes (MonTransit)
 ----------
-Short description: Informations des bus MRC Deux-Montagnes pour MonTransit BETA.
+Short description: Informations des bus MRC Deux-Montagnes (L'Express d'Oka) pour MonTransit BETA.
 ----------
 Full description:
 BETA : TEST EN COURS
 Pour quitter le test : http://goo.gl/4A5Ert
 
-Cette application ajoute les informations des bus MRC Deux-Montagnes à MonTransit BETA.
+Cette application ajoute les informations des bus MRC Deux-Montagnes (L'Express d'Oka) à MonTransit BETA.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 
@@ -20,4 +20,4 @@ http://www.amt.qc.ca/developpeurs/
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC Deux-Montagnes.
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC Deux-Montagnes (L'Express d'Oka).

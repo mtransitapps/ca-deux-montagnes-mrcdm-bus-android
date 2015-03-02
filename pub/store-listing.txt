@@ -3,14 +3,14 @@ Title: MRC Deux-Montagnes Bus (MonTransit)
 Short description: MRC Deux-Montagnes (Oka Express) bus information for MonTransit BETA.
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Schedule from November 5, 2012 to January 1, 2020.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This application adds MRC Deux-Montagnes (Oka Express) bus information to MonTransit BETA.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 MRC Deux-Montagnes (Oka Express) serves Oka, Saint-Eustache, Saint-Joseph-du-Lac and Saint-Placide.
 

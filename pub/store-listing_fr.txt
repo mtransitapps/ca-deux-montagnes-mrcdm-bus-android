@@ -5,7 +5,7 @@ Autobus MRC Deux-Montagnes (L'Express d'Oka) pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 5 Novembre 2012 au 1 Janvier 2020.
+Horaires du 5 novembre 2012 au 1 janvier 2020.
 ----------
 Full description:
 Cette application ajoute les informations de l'autobus MRC Deux-Montagnes (L'Express d'Oka) à MonTransit.

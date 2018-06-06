@@ -1,16 +1,16 @@
-Title: Bus MRC Deux-Montagnes - MonT…
+Title: Bus RTM Express d'Oka (MRC DM) - MonTransit
 ----------
 Short description:
-Autobus MRC Deux-Montagnes (L'Express d'Oka) pour MonTransit.
+Autobus RTM Express d'Oka (MRC Deux-Montagnes) pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
 Horaires du 5 novembre 2012 au 1 janvier 2020.
 ----------
 Full description:
-Cette application ajoute les informations de l'autobus MRC Deux-Montagnes (L'Express d'Oka) à MonTransit.
+Cette application ajoute les informations de l'autobus RTM Express d'Oka (MRC Deux-Montagnes) à MonTransit.
 
-Le MRC Deux-Montagnes (Oka Express) dessert Oka, Saint-Eustache, Saint-Joseph-du-Lac et Saint-Placide.
+Le RTM Express d'Oka (MRC Deux-Montagnes) dessert Oka, Saint-Eustache, Saint-Joseph-du-Lac et Saint-Placide.
 
 Une fois cette application installée, l'application MonTransit affichera les informations de l'autobus (horaires ...).
 
@@ -24,4 +24,4 @@ https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC Deux-Montagnes (L'Express d'Oka).
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM Express d'Oka (MRC Deux-Montagnes).

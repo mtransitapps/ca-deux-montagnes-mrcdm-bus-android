@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MonTransit MRC Deux-Montagnes Bus</string>
-    <string name="app_desc">Données de l\'autobus du MRC Deux-Montagnes pour MonTransit.</string>
+    <string name="app_name">MonTransit RTM Express d\'Oka (MRC DM) Bus</string>
+    <string name="app_desc">Données de l\'autobus du RTM Express d\'Oka (MRC Deux-Montagnes) pour MonTransit.</string>
 </resources>

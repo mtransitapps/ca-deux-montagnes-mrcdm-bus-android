@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="gtfs_rts_label">Bus MRC Deux-Montagnes</string>
-    <string name="gtfs_rts_short_name">MRC Deux-Montagnes</string>
+    <string name="gtfs_rts_label">Bus RTM Express d\'Oka</string>
+    <string name="gtfs_rts_short_name">RTM Express d\'Oka</string>
 </resources>

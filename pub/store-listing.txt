@@ -29,8 +29,8 @@ https://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Oka Express.
 
-exo Oka Express was formely know as RTM Oka Express sector and MRC Deux-Montagnes.
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo Oka Express was formerly known as RTM Oka Express sector and MRC Deux-Montagnes.
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 ----------
 Application type: Applications
 ----------

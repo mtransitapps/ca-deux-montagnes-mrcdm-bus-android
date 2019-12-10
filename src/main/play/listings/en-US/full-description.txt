@@ -1,14 +1,3 @@
-Title: exo Oka Express Bus - MonTransit
-----------
-Short description:
-exo Oka Express bus for MonTransit
-Schedule…
-----------
-What's new in this version?:
-(AMT/MRC => RTM => exo)
-Schedule from November 5, 2012 to January 1, 2020.
-----------
-Full description:
 This application adds exo Oka Express bus information to MonTransit.
 
 This app contains the buses schedule (available offline).
@@ -17,7 +6,7 @@ exo Oka Express serves Oka, Saint-Eustache, Saint-Joseph-du-Lac and Saint-Placid
 
 Once this application is installed, the MonTransit app will display bus information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -31,17 +20,3 @@ This app is not related with the Réseau de Transport Métropolitain (RTM), the 
 
 exo Oka Express was formerly known as RTM Oka Express sector and MRC Deux-Montagnes.
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy
